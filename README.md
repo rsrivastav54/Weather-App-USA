@@ -6,7 +6,7 @@ A weather app that shows average temperature in the last 5 days from capital cit
 1. Clone the repository 
 2. cd into the directory
 3. Install requirements using 'pip install -r requirements.txt'
-4. Run the app using 'python weatherApp.py [Capital/Small Alphabet of State]', ex. 'python weatherApp M'
+4. Run the app using 'python weatherApp.py [Capital/Small Alphabet of State]', ex. 'python weatherApp.py M'
 5. Script returns average temperature over the last 5 days for capital cities of all matching States according to user input
 
 ## Using Docker:
